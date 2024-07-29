@@ -56,7 +56,7 @@ fun SplashScreen() {
             Text(
                 text = "Naveen Chilkuri Food Delivery",
                 color = Color.Blue,
-                fontSize = 30.sp,
+                fontSize = 22.sp,
                 fontWeight = FontWeight.Bold,
                 modifier = Modifier.padding(top = 24.dp)
             )
